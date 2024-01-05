@@ -1,0 +1,10 @@
+01:04:48 **** Build of configuration Debug for project hello_world_application_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 54864 C:/Users/YAVUZ/workspace/helloworldminizedproject/export/helloworldminizedproject/helloworldminizedproject.xpfm standalone_domain C:/Users/YAVUZ/workspace/hello_world_application_system/Debug/system.bif
+sdcard_gen --xpfm C:/Users/YAVUZ/workspace/helloworldminizedproject/export/helloworldminizedproject/helloworldminizedproject.xpfm --sys_config helloworldminizedproject --bif C:/Users/YAVUZ/workspace/hello_world_application_system/Debug/system.bif --bitstream C:/Users/YAVUZ/workspace/hello_world_application/_ide/bitstream/design_1_wrapper.bit --elf C:/Users/YAVUZ/workspace/hello_world_application/Debug/hello_world_application.elf,ps7_cortexa9_0
+creating BOOT.BIN using C:/Users/YAVUZ/workspace/hello_world_application/_ide/bitstream/design_1_wrapper.bit
+Running C:/Xilinx/Vitis/2022.2/bin/bootgen  -image C:/Users/YAVUZ/workspace/hello_world_application_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+01:04:53 Build Finished (took 4s.727ms)
+

@@ -1,0 +1,17 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_hello_world_application_system,org.eclipse.launchbar.core.descriptorType.default\:Debugger_ledenemeapp-Default,org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_ledenemeapp_system
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_bitesthedust-GDB/activeLaunchMode=embdebug
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_bitesthedust-GDB/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_ledenemeapp-Default/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_bitesthedust_system/activeLaunchMode=systemdebug
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_gpioblinkdeneme_system/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_hello_system/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_hello_system/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_hello_world_application_system/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_hello_world_application_system/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_hiii_system/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_hiii_system/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_ledenemeapp_system/activeLaunchMode=systemrun

@@ -1,0 +1,6 @@
+01:49:54 **** Incremental Build of configuration Release for project ledenemeapp ****
+make all 
+make: Nothing to be done for 'all'.
+
+01:49:54 Build Finished (took 99ms)
+

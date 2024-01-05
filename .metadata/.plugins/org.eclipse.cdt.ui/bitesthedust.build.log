@@ -1,0 +1,6 @@
+01:05:30 **** Incremental Build of configuration Debug for project bitesthedust ****
+make all 
+make: Nothing to be done for 'all'.
+
+01:05:30 Build Finished (took 106ms)
+

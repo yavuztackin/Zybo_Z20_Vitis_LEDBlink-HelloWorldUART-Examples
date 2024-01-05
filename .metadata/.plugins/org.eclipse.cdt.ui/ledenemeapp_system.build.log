@@ -1,0 +1,6 @@
+01:43:10 **** Incremental Build of configuration Release for project ledenemeapp_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+01:43:10 Build Finished (took 90ms)
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="hello_world_application" location="C:/Users/YAVUZ/workspace/hello_world_application" platform="C:/Users/YAVUZ/workspace/helloworldminizedproject/export/helloworldminizedproject/helloworldminizedproject.xpfm" platformUID="xilinx:zybo-z7-20::0.0(custom)" systemProject="hello_world_application_system" sysConfig="helloworldminizedproject" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="df09dd80cfbd9c5cf0106e59f418b6fe">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1300214572">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1690004841" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

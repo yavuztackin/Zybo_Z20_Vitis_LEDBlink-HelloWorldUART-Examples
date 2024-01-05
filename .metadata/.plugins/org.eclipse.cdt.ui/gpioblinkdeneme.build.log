@@ -1,0 +1,21 @@
+01:13:04 **** Build of configuration Debug for project gpioblinkdeneme ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -IC:/Users/YAVUZ/workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: gpioblinkdeneme.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/Users/YAVUZ/workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_microblaze_0/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "gpioblinkdeneme.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpioblinkdeneme.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size gpioblinkdeneme.elf  |tee "gpioblinkdeneme.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   1836	    272	   3116	   5224	   1468	gpioblinkdeneme.elf
+'Finished building: gpioblinkdeneme.elf.size'
+' '
+
+01:13:05 Build Finished (took 714ms)
+

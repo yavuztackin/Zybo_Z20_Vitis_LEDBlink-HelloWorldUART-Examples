@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hello_system-bitFile" value="${project_loc:hello}/_ide/bitstream/design_1_wrapper.bit"/>
+	<item key="hello_system-bmmFile" value="${project_loc:hello}/_ide/bitstream/design_1_wrapper.mmi"/>
+	<item key="hello_system-target" value="Local"/>
+	<item key="hello_system-device" value="Auto Detect"/>
+	<item key="hello_system-partial_bit" value="false"/>
+	<item key="hello_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="gpioblinkdeneme_system"/>
+	<item key="hello_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Digilent Zybo Z7 210351B4824AA&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-Zybo Z7-210351B4824AA-4ba00477-0&quot;,&quot;3&quot;:&quot;jsn-Zybo Z7-210351B4824AA-23727093-0&quot;}}]}"/>
+	<item key="hiii_system-bitFile" value="${project_loc:hiii}/_ide/bitstream/design_1_wrapper.bit"/>
+	<item key="hiii_system-bmmFile" value="${project_loc:hiii}/_ide/bitstream/design_1_wrapper.mmi"/>
+	<item key="hiii_system-target" value="Local"/>
+	<item key="hiii_system-device" value="Auto Detect"/>
+	<item key="hiii_system-partial_bit" value="false"/>
+	<item key="hiii_system-skip_rev_check" value="false"/>
+	<item key="hiii_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="swdfgn_system-bitFile" value="${project_loc:swdfgn}/_ide/bitstream/design_1_wrapper.bit"/>
+	<item key="swdfgn_system-bmmFile" value="${project_loc:swdfgn}/_ide/bitstream/design_1_wrapper.mmi"/>
+	<item key="swdfgn_system-target" value="Local"/>
+	<item key="swdfgn_system-device" value="Auto Detect"/>
+	<item key="swdfgn_system-partial_bit" value="false"/>
+	<item key="swdfgn_system-skip_rev_check" value="false"/>
+	<item key="swdfgn_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="gpioblinkdeneme_system-bitFile" value="${project_loc:gpioblinkdeneme}/_ide/bitstream/design_1_wrapper.bit"/>
+	<item key="gpioblinkdeneme_system-bmmFile" value="${project_loc:gpioblinkdeneme}/_ide/bitstream/design_1_wrapper.mmi"/>
+	<item key="gpioblinkdeneme_system-target" value="Local"/>
+	<item key="gpioblinkdeneme_system-device" value="Auto Detect"/>
+	<item key="gpioblinkdeneme_system-partial_bit" value="false"/>
+	<item key="gpioblinkdeneme_system-skip_rev_check" value="false"/>
+	<item key="gpioblinkdeneme_system-microblaze_0-initElf" value="bootloop"/>
+</section>

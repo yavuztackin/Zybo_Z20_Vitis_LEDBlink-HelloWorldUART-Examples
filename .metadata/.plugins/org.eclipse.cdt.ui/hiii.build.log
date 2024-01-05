@@ -1,0 +1,21 @@
+01:15:08 **** Incremental Build of configuration Debug for project hiii ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -IC:/Users/YAVUZ/workspace/helloworld/export/helloworld/sw/helloworld/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: hiii.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/Users/YAVUZ/workspace/helloworld/export/helloworld/sw/helloworld/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "hiii.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hiii.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size hiii.elf  |tee "hiii.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   1688	    268	   3108	   5064	   13c8	hiii.elf
+'Finished building: hiii.elf.size'
+' '
+
+01:15:08 Build Finished (took 403ms)
+

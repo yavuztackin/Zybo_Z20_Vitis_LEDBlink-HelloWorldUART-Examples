@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="ledenemeapp" location="C:/Users/YAVUZ/workspace/ledenemeapp" platform="C:/Users/YAVUZ/workspace/leddeneme/export/leddeneme/leddeneme.xpfm" platformUID="xilinx:zybo-z7-20::0.0(custom)" systemProject="ledenemeapp_system" sysConfig="leddeneme" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="8e84925a9e3126b848b042b98ee7c522">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1382829222" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.221555733">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

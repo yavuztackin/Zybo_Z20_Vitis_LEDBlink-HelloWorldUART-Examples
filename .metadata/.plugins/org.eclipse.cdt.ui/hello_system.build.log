@@ -1,0 +1,6 @@
+01:10:02 **** Incremental Build of configuration Debug for project hello_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+01:10:02 Build Finished (took 93ms)
+
